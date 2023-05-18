@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 Use this command to create .env file. 
 ```bash
-cp .env.example .aziz
+cp .env.example .env
 ```
 
 In the copied .env file you can find necessary variables. Fill them in and enjoy !
